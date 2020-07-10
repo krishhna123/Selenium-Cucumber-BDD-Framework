@@ -32,7 +32,7 @@
 		<!-- These are the junit dependencies -->
 		<dependency>
 			<groupId>junit</groupId>
-			<artifactId>junit</artifactId>
+			<artifactId>junit</artifactId>va 
 			<version>4.12</version>
 		</dependency>
 
@@ -61,7 +61,7 @@
 		<dependency>
 			<groupId>com.google.guava</groupId>
 			<artifactId>guava</artifactId>
-			<version>21.0</version>
+			<version>24.1.1</version>
 		</dependency>
 	</dependencies>
 </project>
